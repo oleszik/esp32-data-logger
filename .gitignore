@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+compile_commands.json
+*.log
+simulation-output/
+esp32_logger_test_output/
+
